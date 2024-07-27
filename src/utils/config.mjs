@@ -1,7 +1,7 @@
 import { resolve } from "path";
 
 export const API_PREFIX = "/api";
-export const NODE_ENV = process.env.NODE_ENV || "development";
+export const NODE_ENV = process.env.NODE_ENV || "production";
 export const SERVER_PORT = process.env.PORT || 3000;
 export const CLIENT_PORT = process.env.PORT || 9000;
 export const SERVER_BUILD_PATH = resolve(process.cwd(), "build/server");
