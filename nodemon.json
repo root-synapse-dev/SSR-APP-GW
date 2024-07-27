@@ -1,0 +1,4 @@
+{
+  "watch": ["src"],
+  "ext": "ts,tsx,js,jsx,cjs,mjs,json,css,scss,html"
+}

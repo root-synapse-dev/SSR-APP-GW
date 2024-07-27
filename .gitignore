@@ -1,3 +1,13 @@
+# Custom
+.webpack_client_cache
+.webpack_server_cache
+.prettierignore
+.eslintignore
+.env
+build
+dist
+node_modules
+
 # Logs
 logs
 *.log
